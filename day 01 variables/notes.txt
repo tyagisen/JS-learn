@@ -1,0 +1,15 @@
+JS has 3 ways of to declare a JS variable:
+1. var
+2. let
+3. const
+
+variables are the way to store values in identifiers containing unique name.
+variables are case sensitive
+should avoid reserved key words.
+single equal to (=) is assignment operator.
+double equal to (==) is equal to.
+variable's identifier must be started with a-z or A-Z
+identifier can be started with $ and _ as in js it is treated as letter, identifiers containing $ are valid variable names.
+$ is used as an alias for the main function in a js library.
+
+_ is used by professional programmers to use it as an alias for private(hidden) variables.
