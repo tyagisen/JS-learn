@@ -1,0 +1,9 @@
+In array and object we shouldnot define data type to create variable like (int a = 1;) in Java but in js we can direct use var a = 1;
+
+object => Object is enclosed inside curly braces {}. In object we should not define data type.
+There are various ways to access object. object contains both name and value.
+
+array => array is also object but it contains only value. It is closed inside big bracket.
+
+
+

@@ -14,7 +14,7 @@ Object creation in JS. All Array are object but all object arenot array.
 */
 console.log();
 console.log();
-let myObj = {
+myObj = {
     firstName: "Im",
     age : 23,
     phone: 879328998493
