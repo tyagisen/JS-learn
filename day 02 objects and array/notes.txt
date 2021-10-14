@@ -7,3 +7,5 @@ array => array is also object but it contains only value. It is closed inside bi
 
 
 
+function => function is a set of statement that performs a task for calculate a value
+It is executed when it is invoked or called.

@@ -1,0 +1,33 @@
+string can be double and single quotes.
+
+string is primitive data type/ value
+
+if function is created inside object it is called method.
+behaviour => it is contains numerous method it is called behaviour
+
+x.talk(); here x is object and talk() is method.
+
+
+a = 'There is my friend/'s home'
+
+we can use slash to ignore sigle quote in friends.
+
+sentence[4]
+sentence.includes('second') //This is the way to know if it is in sentence
+sentence.startsWith('This') // knows if it starts with
+sentence.endsWith('')
+sentence.indexOf('first')
+sentence.replace('first', 'second') //It replaces the value but actual sentence doesnot change.
+sentence.trim()
+sentence.trimLeft()
+sentence.trimRight()
+sentence.split('')
+sentence.split(' ')//it converts into array.
+
+
+
+
+template literals=>``
+
+Template literals helps not to use escape sequences like \n to get in new line. from template literals we can directly break line without using escape sequence.
+Also dynamic data can be get in template literals using dollor symbol and curly brases. i.e. ${}
