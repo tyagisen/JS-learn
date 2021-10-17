@@ -1,0 +1,7 @@
+conditions
+
+question
+can we use semicolon after if condition
+=== in js
+It is like if we take x = '1'. and we apply a condition like x==1 then the condition becomes true.
+but if you want to compulsorily math with string 1 then we use x===1 then 1 and '1' are not equal.

@@ -5,6 +5,7 @@ JS has 3 ways of to declare a JS variable:
 
 variables are the way to store values in identifiers containing unique name.
 variables are case sensitive
+identifier may be declearation, providing value is initialization
 should avoid reserved key words.
 single equal to (=) is assignment operator.
 double equal to (==) is equal to.

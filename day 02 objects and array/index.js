@@ -1,8 +1,10 @@
 /*
 Array and object. and function
+
 */
 
-// object
+// object has name:value pairs
+//name:value pair are called properties in js object.
 let myobj = {
     district: 'Sunsari',
     wardNumber: 6, 
