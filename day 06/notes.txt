@@ -1,0 +1,28 @@
+programming type: - 
+static type and dynamic type programming language
+php and js is dynamic 
+dynamic is 
+
+
+object literal syntax means let obj={}
+when we use curly brases then its object literal syntax.
+
+for accessing object.
+
+dot notation
+person.firstName;
+
+bracket notation
+person['firstName'];
+
+
+adding
+person.firstName = 'samir'
+updating 
+we can update in the sa
+removing
+
+
+use of array
+we can store multiple values in a single variable.
+

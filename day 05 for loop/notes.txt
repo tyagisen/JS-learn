@@ -1,0 +1,17 @@
+for = It is a loop to run same code for multiple times
+for in = syntax= for(let x in fruits){} this loop is used for both object and array
+for of= syntax = for(let x of fruits){} this loop is only for array. object doesnot work here.
+arrays []
+object {}
+shift
+unShift
+push
+pop
+toUpperCase()
+toLowerCase()
+
+myObj = {}
+ways to add object in given object
+myObj'] = "Tyagi"
+break = it break the loop and doesnot run allow to run alother the loop is not finished.
+continue = it doesnot allow to run and it starts from the top
